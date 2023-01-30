@@ -14,7 +14,7 @@
 # Dependency directories (remove the comment below to include it)
 vendor/
 .idea
-.env
+# .env
 assets/
 uploads/
 *.DS_Store
